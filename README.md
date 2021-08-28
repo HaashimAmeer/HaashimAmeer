@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HaashimAmeer
-- 👀 I’m a college sophomore interested in backend development, machine learning, and business. 
-- 🌱 I’m currently learning React.JS & exploring the art of frontend development. 
-- 💞️ I’m looking to collaborate on any project!
-- 📫 How to reach me: www.linkedin.com/in/haashameer/
+- 👋  Hi, I’m @HaashimAmeer
+- 👀  I’m a college sophomore interested in backend development, machine learning, and business. 
+- 🌱  I’m currently learning React.JS & exploring the art of frontend development. 
+- 💞️  I’m looking to collaborate on any project!
+- 📫  How to reach me: www.linkedin.com/in/haashameer/
 
 <!---
 HaashimAmeer/HaashimAmeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
