@@ -1,11 +1,12 @@
 ### Haashim Ameer
 
-AI Technical PM by day, full-stack builder by night.
+I work at the seam of engineering and product — I ship the software and own the outcome.
 
-- 🔭 Currently: AI TPM @ AMAC (civic tech, 4-repo platform) and PM @ ApogeeHealth (FitNext - AI fitness coach)
-- 🛠 Shipping with: Claude Code, Python/FastAPI, TypeScript, React Native, Swift/SwiftUI, Supabase
-- 📍 Seattle · B.S. Mathematics, Seattle University
-- 🔗 [linkedin.com/in/haashameer](https://www.linkedin.com/in/haashameer/)
+- 🔭 Now: Product @ AMAC (civic tech) — shipping agentic Claude Code automation (MCP), monitoring/alerting pipelines, and analytics dashboards; own production incident response end to end.
+- 🚀 Before: shipped an AI fitness coach (FitNext) as PM @ Apogee; technical/solutions roles at Mayo Clinic and SAP Concur.
+- 🛠 Stack: Python/FastAPI, TypeScript, React Native, Swift/SwiftUI, Supabase/MySQL, Claude Code + MCP.
+- 🔒 Most of my work lives in private repos — my contribution graph tells the fuller story.
+- 📍 Seattle · B.S. Mathematics, Seattle University · [LinkedIn](https://www.linkedin.com/in/haashameer/)
 
 <!---
 HaashimAmeer/HaashimAmeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
