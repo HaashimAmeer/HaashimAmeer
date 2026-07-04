@@ -1,6 +1,6 @@
 ### Haashim Ameer
 
-I work at the **seam of engineering and product** — I ship the software and own the outcome.
+I work at the **intersection of engineering and product** - I ship the software and own the outcome.
 
 - 🔭 **Now: Product @ AMAC** (civic tech) — shipping **agentic Claude Code automation** (MCP), monitoring/alerting pipelines, and analytics dashboards; own production incident response end to end.
 - 🚀 **Before:** shipped an AI fitness coach (**FitNext**) as **PM @ Apogee**; technical/solutions roles at **Mayo Clinic** and **SAP Concur**.
